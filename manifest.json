@@ -10,14 +10,14 @@
             {
                 "version": "0.0.0.1",
                 "targetAbi": "10.12.0",
-                "checksum": "000E45EED0F912BB725FA5437D32BDB2",
+                "checksum": "FC626A1685AE7917BA02E001CE435D10",
                 "sourceUrl": "https://github.com/T-Gander/jellyfin-plugin-mediacleaner/releases/download/v0.0.1-alpha/MediaCleaner_0.0.1-alpha.zip",
                 "timestamp": "2025-11-29T00:00:00Z"
             },
             {
                 "version": "0.0.0.1",
                 "targetAbi": "10.11.0",
-                "checksum": "000E45EED0F912BB725FA5437D32BDB2",
+                "checksum": "FC626A1685AE7917BA02E001CE435D10",
                 "sourceUrl": "https://github.com/T-Gander/jellyfin-plugin-mediacleaner/releases/download/v0.0.1-alpha/MediaCleaner_0.0.1-alpha.zip",
                 "timestamp": "2025-11-29T00:00:00Z"
             }

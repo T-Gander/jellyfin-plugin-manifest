@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Media Cleaner",
+        "guid": "fef007a8-3e8f-4aa8-a22e-486a387f4192",
+        "overview": "A cleaner for your stale media.",
+        "description": "Clean out the stale media from your library using scheduled tasks",
+        "category": "Library",
+        "owner": "T-Gander",
+        "versions": [
+            {
+                "version": "0.0.0.1",
+                "targetAbi": "10.11.3",
+                "sourceUrl": "https://github.com/T-Gander/jellyfin-plugin-mediacleaner/archive/refs/tags/v0.0.1-alpha.zip",
+                "timestamp": "2025-11-29"
+            }
+        ]
+    }
+]

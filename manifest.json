@@ -8,6 +8,13 @@
         "owner": "T-Gander",
         "versions": [
             {
+                "version": "0.0.0.2",
+                "targetAbi": "10.11.0",
+                "checksum": "c4e49839faacee9e122aec9cda2973fe",
+                "sourceUrl": "https://github.com/T-Gander/jellyfin-plugin-mediacleaner/releases/download/v0.0.2-alpha/MediaCleaner_0.0.2-alpha.zip",
+                "timestamp": "2025-11-30T00:00:00Z"
+            },
+            {
                 "version": "0.0.0.1",
                 "targetAbi": "10.11.0",
                 "checksum": "FC626A1685AE7917BA02E001CE435D10",
